@@ -19,6 +19,4 @@
 # 🔮 **POWERSTACK**
 [![SKILLS](https://skillicons.dev/icons?i=windows,vscode,powershell,neovim,nodejs,vite,figma,linux,bun,git,rust,html,js,ts,css&theme=dark)](https://skillicons.dev)
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=jhotiori&title=Stars,Followers,Commits,Repositories,Experience&theme=discord&no-bg=true&no-frame=true">
-</p>
+[![TROPHY](https://github-profile-trophy.vercel.app/?username=jhotiori&title=Stars,Followers,Commits,Repositories,Experience&theme=discord&no-bg=true&no-frame=true)](https://github-profile-trophy.vercel.app/)
