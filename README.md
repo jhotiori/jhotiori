@@ -5,15 +5,13 @@
 [![LEETCODE](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/leetjho/)
 [![STEAM](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/jhotiori)
 
-<hr>
-
 > - 🎓 **Software Engineering Student @ UniAmérica [2/8]**
 > - 🧪 **Currently sharpening my skills in FrontEnd Development**
 > - 🚀 **Low-level Programming & Optimization Enthusiast**
 > - 🌍 **Aiming on contributing towards Open-source Projects**
 > - ☕ **Athlete, Biohacker & Coffee addict in the Free-time**
 
-<br>
+<hr>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,figma,neovim,linux,bun,github,rust,git,html,css,ts&theme=dark">
