@@ -1,22 +1,10 @@
 <h3 align="center">
-    <b>Jhotiori</b>
+    <b>Hello, I'm Jhotiori.</b>
 </h3>
 
-<h6 align="center">
-    <b><a href="https://github.com/jhotiori?tab=repositories">
-    Repositories
-    </a></b>
-    ·
-    <b><a href="https://github.com/jhotiori?tab=achievements">
-    Achievements
-    </a></b>
-    ·
-    <b><a href="https://github.com/jhotiori?tab=stars">
-    Stars
-    </a></b>
-</h5>
-
-
+<h4 align="center">
+    <b><code>Software Engineer</code></b> · <b><code>Fullstack Developer</code></b> · <b><code>Performance Nerd</code></b>
+</h4>
 
 <h3 align="center">
     <a href="https://www.linkedin.com/in/joao-pedro-martiori" rel="noopener noreferrer">
@@ -29,13 +17,29 @@
         <img src="https://img.shields.io/badge/-REDDIT-1e1e2e?style=for-the-badge&logo=reddit&logoColor=white&colorA=black&colorB=1e1e2e" />
     </a>
 </h3>
+
 <hr>
-<h4 align="center">
-    I'm a Software Engineering Student from Brazil. Currently focusing on Fullstack Development, alongside Low-level programming and Code Optimization (Coffee Addict & Cat Lover as well!)
-</h4>
+
+<p align="center">
+    <b>
+        I'm a Software Engineering Student from Brazil. Currently focusing on Low-level Programming, Code Optimization and Data Structures & Algorithms. Focused on building and contributing to open-source projects.
+    </b>
+</p>
 
 <h3 align="center">
-    <a href="https://skillicons.dev" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=linux,bun,figma,react,arch,vscode,obsidian&theme=dark" alt="SkillIcons" loading="lazy" align="center">
-    </a>
+    <img src="https://skillicons.dev/icons?i=rust,git,html,js,c,ts,css,vscode,arch,linux,bun&theme=dark" loading="lazy" alt="SkillIcons" />
 </h3>
+
+<h6 align="center">
+    <a href="https://github.com/jhotiori?tab=repositories" rel="noopener noreferrer">
+    Repositories
+    </a>
+    ·
+    <a href="https://github.com/jhotiori?tab=achievements" rel="noopener noreferrer">
+    Achievements
+    </a>
+    ·
+    <a href="https://github.com/jhotiori?tab=stars" rel="noopener noreferrer">
+    Stars
+    </a>
+</h6>
