@@ -35,10 +35,12 @@
 
 <p align="center">
     <b>
-        I'm a Software Engineering Student from Brazil. Currently focusing on Low-level Programming, Code Optimization and Data Structures & Algorithms. Focused on building and contributing to open-source projects.
+        Software Engineering Student from Brazil. Currently focused on Low-level Programming, Data Structures & Algorithms and Code Optimization. Aiming on building and contributing to open-source projects.
     </b>
 </p>
 
+<!--
 <h3 align="center">
-    <img src="https://skillicons.dev/icons?i=rust,git,html,js,c,ts,css,vscode,arch,linux,bun&theme=dark" loading="lazy" alt="SkillIcons" />
+    <img src="https://skillicons.dev/icons?i=rust,git,js,ts,react,arch,linux,bun,java&theme=dark" loading="lazy" alt="SkillIcons" />
 </h3>
+-->
