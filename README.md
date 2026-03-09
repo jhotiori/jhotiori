@@ -31,6 +31,7 @@
     </a>
 </h6>
 
+<!--
 <hr>
 
 <p align="center">
@@ -38,6 +39,7 @@
         Software Engineering Student from Brazil. Currently focused on Low-level Programming, Data Structures & Algorithms and Code Optimization. Aiming on building and contributing to open-source projects.
     </b>
 </p>
+-->
 
 <!--
 <h3 align="center">
