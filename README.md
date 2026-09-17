@@ -3,7 +3,7 @@
 </h3>
 
 <h4 align="center">
-    <b><code>Software Engineer</code></b> · <b><code>Fullstack Developer</code></b> · <b><code>Performance Nerd</code></b>
+    Software Engineer · Fullstack Developer · UNIX/Linux
 </h4>
 
 <h3 align="center">
