@@ -13,9 +13,6 @@
     <a href="https://discord.com/users/1141895889582051338" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-DISCORD-1e1e2e?style=for-the-badge&logo=discord&logoColor=white&colorA=black&colorB=1e1e2e" loading="lazy" />
     </a>
-    <a href="https://www.reddit.com/user/Jhotiori/" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-REDDIT-1e1e2e?style=for-the-badge&logo=reddit&logoColor=white&colorA=black&colorB=1e1e2e" loading="lazy" />
-    </a>
 </h3>
 <h6 align="center">
     <a href="https://github.com/jhotiori?tab=repositories" rel="noopener noreferrer">
@@ -30,19 +27,3 @@
     Stars
     </a>
 </h6>
-
-<!--
-<hr>
-
-<p align="center">
-    <b>
-        Software Engineering Student from Brazil. Currently focused on Low-level Programming, Data Structures & Algorithms and Code Optimization. Aiming on building and contributing to open-source projects.
-    </b>
-</p>
--->
-
-<!--
-<h3 align="center">
-    <img src="https://skillicons.dev/icons?i=rust,git,js,ts,react,arch,linux,bun,java&theme=dark" loading="lazy" alt="SkillIcons" />
-</h3>
--->
